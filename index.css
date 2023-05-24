@@ -14,6 +14,8 @@ h1,h3{
     color: #207DFF;
 }
 img{
-height: 100px;
-width: 100px;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
