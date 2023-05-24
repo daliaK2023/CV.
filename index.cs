@@ -19,7 +19,7 @@ img{
   height: 200px;
 }
 button{ 
-   color: white;
+   color: black;
   padding: 5px 10px;
   text-align: center;
   display: inline-block;
