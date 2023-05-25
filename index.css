@@ -57,11 +57,13 @@ button:focus {
 
 button:focus-visible {
   box-shadow: none;
+   
 }
 
 
 a{    text-decoration: none;
-      margin: 3px;
+      margin: 7px;
+      padding: 3px;
 }
 
 
