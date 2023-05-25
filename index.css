@@ -61,6 +61,7 @@ button:focus-visible {
 
 
 a{    text-decoration: none;
+      margin: 3px;
 }
 
 
