@@ -14,9 +14,12 @@ h1,h3{
     color: #207DFF;
 }
 img{
-  padding: 1px;
-  width: 200px;
-  height: 200px;
+  padding: 3 px;
+  width: 150px;
+  height: 1500px;
+  border-radius: 50%;
+
+
 }
 button{ 
    color: black;
