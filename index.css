@@ -44,7 +44,7 @@ button{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-    margin:10px;
+    margin-right:17px;
 }
 
 button:hover {
