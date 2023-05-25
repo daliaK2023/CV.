@@ -46,16 +46,16 @@ button{
   touch-action: manipulation;
 }
 
-.button-38:hover {
+button:hover {
   background-color: rgb(249,250,251);
 }
 
-.button-38:focus {
+button:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 
-.button-38:focus-visible {
+button:focus-visible {
   box-shadow: none;
 }
 
